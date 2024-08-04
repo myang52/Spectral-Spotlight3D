@@ -4,8 +4,7 @@ Spectral Spotlight3D is a 3D proof of concept for an older 2D game I helped to c
 https://github.com/Sam962/Spectral-Spotlight.
 
 ## Controls
-- Mouse:
-  - Right-click: Activate Flashlight Beam
+- Mouse Right-click: Activate Flashlight Beam
 - WASD: Move
 - Spacebar: Jump
 
@@ -14,9 +13,11 @@ Defeating ghosts and collect coins to buy power-ups and the key to your escape.
 
 
 ## Tutorial Channels Used
-https://www.youtube.com/@samyam[y]
-https://www.youtube.com/@Brackeys[y]
-https://www.youtube.com/@RehopeGames[y]
+https://www.youtube.com/@samyam
+
+https://www.youtube.com/@Brackeys
+
+https://www.youtube.com/@RehopeGames
 
 ## Other Resources/Assets
 
